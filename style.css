@@ -112,7 +112,7 @@ body {
 header {
     padding-left: 0px;
     height: 70px;
-    width: 70%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     line-height: 70px;
@@ -359,3 +359,5 @@ footer {
     background-color: #BDE6F8;
     background-repeat: repeat-x;
 }
+
+
